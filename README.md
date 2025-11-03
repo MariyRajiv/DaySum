@@ -1,4 +1,4 @@
-# Day Sum Solution 🗓️
+# 🗓️ Day Sum Solution
 
 A **JavaScript** solution that processes date–value pairs and returns sums grouped by **day of the week**, with **interpolation for missing days**.
 
