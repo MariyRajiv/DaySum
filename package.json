@@ -1,0 +1,12 @@
+{
+  "name": "day-sum-solution",
+  "version": "1.0.0",
+  "description": "Solution for day sum calculation problem",
+  "main": "src/solution.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
