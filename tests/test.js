@@ -1,4 +1,3 @@
-// tests/test.js
 const assert = require('assert');
 const solution = require('../src/solution');
 
